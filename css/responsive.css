@@ -22,7 +22,7 @@
 	PAGE:PORTFOLIO
 	****************************/ 
 	  #gallery li{
-	  width:42.5%;
+	  width:40%;
 	  }
 	  #gallery li:nth-child(3n+1){
 	  clear:left;
